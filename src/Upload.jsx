@@ -59,7 +59,7 @@ const ImageUploader = () => {
       )}
       {uploading && <p>Uploading image...</p>}
       {uploadStatus && <p>{uploadStatus}</p>}
-      <img className='www' src="https://drive.google.com/uc?export=view&id=1WzF1NMolJp5AePUsNHBNSYoanZmYI6rw" alt=""/>
+      <img className='www' src="https://einvestidor.estadao.com.br/wp-content/uploads/2022/08/dinaprates_020820220731.jpg" alt=""/>
 
     </div>
   );
