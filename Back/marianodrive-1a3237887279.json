@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "marianodrive",
+  "private_key_id": "1a32378872795b7c7edcb67183bb522adbd74e27",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCr9m/9QIf2bZur\ncjXd4/RQKyl7WYwhZd1t3t/hrBUhcT7xgsWdW2SChzxP7mFAmJcSRdEKuBOPzWNX\nGe1J4YcVXksjoPFxa5/UdRNox0xluTzKLaz1v3hDMrmqLQccMCx66MYhsGrCLUpS\ndjmRvUOY05JtDr5/CufKmwaUoc37SJzQPX8grbJPC+89vdAmKUKbq/YEHed/1gCc\naKtGO0r5DqGDrNVJqDobZksYM25MQsjyu62lLxy7I6Ag56Z+/N3dgg8RcYa44Ytp\n+lWMhbLdejoH7r4+PVUbyjgoaa9Y/QMn85SAfiEumPoI2efCFho0mc819Wv07Tes\nFB91E85tAgMBAAECggEADDAiTdvWByRLpUIqCTkP5uK4RPLa2L8ki5YBXjhZIw6o\nvGtdYELLA+lb3/pwUCjAhF4Ia+8SC94tzU2cIOFoNp6BStwsYLKVGHTX1FRT2N3h\nLh9ApAZXGsQsnqAkYd4UOP3olRiw6GRXYTLZ77dvZBSSy0IBRHXcaeLE+6HgPJAS\nJRN5orjBVLaOMpQyTFwCBpK3ZaBYwoftDao3hQQLa8d5vrUyCb0PFTnQMImcYznu\n5ln/ErOjtW57DGMBnCi/xLCJIxgt516GLB/qpSzOunoy+vN/ci2h4uUSy7m6M8N5\n4x1n1derS8RnBUryLD16fu89fEMaHYGIbLpUtE0wjQKBgQDg0NoVQdlRb2hdIqf/\nwPt93Fakub6xQyjOI6V9E3xTOCi5wueAHQPBQAKhgcQ0z+PEi9ksi8BJ/6j1tMdy\n4nDUAmiWQ5tuwFH0qdM3fLhyHcx8NWXm++JlcANU6JRA3VEK3xyUYsehxek7ZRc0\nPzxMA6u2jWrY+VbVARvZ/Ok0QwKBgQDD0Mid8P7QAsCQqlt70jsHkUXjNf6Ft3xV\ntiS4aKundqqhQNtWOaTQB7S19/7abMGpnXPQXlcL/ajS8BA4EQlCYK09TWfQBKmE\natU7bpI7cTOkE4qjQBddNOZ8CKMB1AkhT6hgqRDgG7XRnYjcq5k6PrkN8FI6U9fA\n13WhMp6fjwKBgQCJUikTuPAkVPebhBK4Hsm/PDpUTfzTy+D94ToxZxiWwIPny8ya\nLZ7giNfSjTAqzh0jLgUOt6JR0O8EflMhsn0Wkw4NUuh7QtAMsTsJ9o23bso7yGYh\nLBRCv6PZVmNQJ59cE6IiZR/pibkIBZyh1kpfaBKX5FOyisLmQtIfWeOcfwKBgQDD\naMIbY5lWCbkTZP5Ala6UwbOFp6dk15O7kTYZ1VKfnrtuimOYK5Q+icIb6e0pGmk1\nE8y0fsDNVYi5YBo/aTjdRc78IxfbLhvg6h/63EAQE8reDSZH/biTKixsUM4jD+9A\nj9bPB0iw7NZH5bbjyFb0Gg3gTBgy3uKrLhjUEcjcHwKBgEIcZJwoa1+0utgOhZX4\nFrar4u4e96qNs+fHCdwuaBip1gtEVXruLv5JzdMzd8Wba4M7pATbkpCTo7kxqUns\nbGTxBxjWNF+05to5nU+Vn6Ma0ajKwgx/taPuLtGg43SvkSRvqvRgD0/BKRpIGP3z\n/nLbYLZIcTlI4Cxo7Pm6KbXS\n-----END PRIVATE KEY-----\n",
+  "client_email": "marianodrive@marianodrive.iam.gserviceaccount.com",
+  "client_id": "113847390100945013410",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/marianodrive%40marianodrive.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
